@@ -15,6 +15,3 @@ Aquest repositori conté informació tècnica complementària per al projecte, o
 - [`2-Gerber/`](./2-Gerber): Conté els **fitxers Gerber** necessaris per a la fabricació de la **PCB final**.
 
 Aquest repositori té com a objectiu centralitzar tota la informació tècnica addicional que dóna suport al desenvolupament, validació i documentació del projecte.
-
-
-Aquest repositori serveix com a suport tècnic per a la validació, manteniment i possible millora del sistema dissenyat.
